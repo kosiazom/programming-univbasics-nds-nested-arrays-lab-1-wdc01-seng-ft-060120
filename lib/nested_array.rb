@@ -36,7 +36,7 @@ end
 def matrix_lookup(matrix, row, column)
   
   matrix_lookup[matrix][row][column]
-  
+  matrix_lookup
  
 end
 
